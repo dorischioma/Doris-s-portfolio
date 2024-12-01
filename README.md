@@ -41,8 +41,7 @@ EDA involved exploring the sales data to answer questions, such as:
 - What products are the top sellers?
 - What are the peak sales period?
 
-![Screenshot of sales data model](https://github.com/user-attachments/assets/2ac50b32-daf0-497a-aab0-35977b500cf4)
-
+![Screenshot of sales data model](https://github.com/user-attachments/assets/0eda6349-d9a4-4075-b5c4-ac8906d0d745)
 
 
 ### Data Analysis
