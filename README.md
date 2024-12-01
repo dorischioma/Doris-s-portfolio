@@ -17,6 +17,9 @@
 
 This data analysis aims to provide insights into the performance of an e-commerce company over the past year. By analyzing various aspects of sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![Screenshot of sales data model](https://github.com/user-attachments/assets/08a08628-8c96-4a10-ac44-7f6779b92d2c)
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the  "fact_table.csv" file, containing detailed information about each sale made by the company.
