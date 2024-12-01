@@ -58,6 +58,9 @@ The analysis results are summarized as follows:
 2. Product category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LIV) should be targeted for markerting efforts.
 
+![Dashboard Screenshot ](https://github.com/user-attachments/assets/3eb5484d-265b-4922-be7a-36198ec58d80)
+
+
 
 ### Recommendations
 
