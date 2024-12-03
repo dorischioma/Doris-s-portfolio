@@ -54,9 +54,9 @@ Includes some interesting features worked with:
 ### Results/Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with the noticeable peak during the holiday season.
-2. Product category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LIV) should be targeted for markerting efforts.
+1. The company experiences higher sales in the 4th quarter of the year.
+2. Dhaka division has the highest number of customers and generates the highest revenue.
+3. Products under food healthy are the best selling products across divisions.
 
 ![Dashboard Screenshot ](https://github.com/user-attachments/assets/3eb5484d-265b-4922-be7a-36198ec58d80)
 
@@ -66,8 +66,8 @@ The analysis results are summarized as follows:
 
 Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in category A.
-- Implement a customer segmentation strategy to target high LTV customers effectively.
+- Focus on expanding and promoting products in food beverages.
+- Implement a customer segmentation strategy to target high value customers effectively.
 
 
 ### Limitations
