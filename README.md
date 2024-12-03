@@ -46,7 +46,7 @@ EDA involved exploring the sales data to answer questions, such as:
 
 ### Data Analysis
 
-Include some interesting features worked with
+Includes some interesting features worked with:
 
 -Pivot Table
 
@@ -72,11 +72,12 @@ Based on the analysis, we recommend the following actions:
 
 ### Limitations
 
-I had to remove duplicate values 
+- I had 1 million columns, but I used a sample size of 1000 datasets for this analysis, due to excel's capacity.
+- I had to remove 3 duplicates values.
 
 
 
-### References
+
 
 
 
